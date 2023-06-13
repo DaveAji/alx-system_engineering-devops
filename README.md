@@ -1,1 +1,1 @@
-This conatins shell commands for tasks
+Readme for shell redirection
